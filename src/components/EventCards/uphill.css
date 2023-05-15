@@ -1,0 +1,31 @@
+.uphill-icon {
+    position: relative;
+    max-width: 2.5rem;
+    flex-shrink: 0;
+  }
+  .uphill-riding-txt {
+    position: relative;
+    font-weight: 600;
+  }
+  .uphil-riding {
+    position: relative;
+    border-radius: 42px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(137, 132, 132, 0.21);
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    padding: 1.38rem 2.5rem;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1.31rem;
+    text-align: left;
+    font-size: 1rem;
+    color: #636363;
+    font-family: Nunito;
+    text-align: center;
+    cursor: pointer;
+  }
+  
